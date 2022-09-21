@@ -1,6 +1,6 @@
 # Ansible-repo
 
-this is the repo where I'll learn Ansible.
+This is the repo where I'll learn Ansible. I'll automate my project.
 
 ## Few of the git command that we will use during our upcoming journey.
 

@@ -10,4 +10,4 @@ This is the repo where I'll learn Ansible.
 4)  git commit -m "msg name"   --> Adding commait msg to the commit / changes you made.
 5)  git push                   -->  Your changes will be pushed to the repo. 
 
-### PS: Ensure you are inside the repo to execute the git command ; We'll perform clone once and pull multiple time.
+#### PS: Ensure you are inside the repo to execute the git command ; We'll perform clone once and pull multiple time.
